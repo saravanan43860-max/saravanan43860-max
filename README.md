@@ -8,7 +8,7 @@
 ---
 
 ### About Me
-Aspiring software engineer currently refining my technical foundation at Guru Nanak College, Chennai. I bridge the gap between statistical analysis and software development, with a specific interest in R programming and algorithmic efficiency. Always exploring the intersection of data-driven insights and scalable code.
+I am a final-year Computer Science student and freelance web developer with expertise in building full-stack Java applications. My technical toolkit includes Java, R programming, software engineering, and SQL, complemented by certifications in Generative AI, Python for Data Science, and networking. I combine technical problem-solving with an analytical mindset to deliver high-quality results in both my academic studies and client-based projects.
 
 ---
 
