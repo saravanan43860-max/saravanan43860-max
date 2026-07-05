@@ -26,7 +26,6 @@ I am a final-year Computer Science student and freelance web developer with expe
   <img src="https://github-readme-stats.vercel.app/api?username=saravanan43860-max&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanan43860-max&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
- 
 
 ---
 
@@ -41,6 +40,6 @@ I am a final-year Computer Science student and freelance web developer with expe
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=[YOUR-USERNAME]&label=Profile%20Views&color=38bdf8&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=saravanan43860-max&label=Profile%20Views&color=38bdf8&style=flat" />
 
 </div>
