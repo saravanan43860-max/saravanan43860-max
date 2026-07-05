@@ -9,6 +9,7 @@
 
 ### About Me
 I am a final-year Computer Science student and freelance web developer with expertise in building full-stack Java applications. My technical toolkit includes Java, R programming, software engineering, and SQL, complemented by certifications in Generative AI, Python for Data Science, and networking. I combine technical problem-solving with an analytical mindset to deliver high-quality results in both my academic studies and client-based projects.
+color=red
 
 ---
 
@@ -24,7 +25,7 @@ I am a final-year Computer Science student and freelance web developer with expe
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saravanan43860-max&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanan43860-max&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanan43860-max&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
