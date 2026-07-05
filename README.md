@@ -2,7 +2,7 @@
 
 # Hi, I'm Saravanan! 👋
 
-### 🚀 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&lines=Computer+Science+Student;Full-Stack+Developer;Generative+AI+%26+Tech+Enthusiast" />
+### 🚀 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=38bdf8&center=true&vCenter=true&lines=Computer+Science+Student;Full-Stack+Developer;Generative+AI+%26+Tech+Enthusiast"/>
 
 
 ---
