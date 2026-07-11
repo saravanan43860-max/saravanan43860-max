@@ -40,6 +40,6 @@ I am a final-year Computer Science student and freelance web developer with expe
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=saravanan43860-max&label=Profile%30Views&color=38bdf8&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=saravanan43860-max&label=Profile%20Views&color=38bdf8&style=flat" />
 
 </div>
